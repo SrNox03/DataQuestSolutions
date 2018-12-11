@@ -7,7 +7,5 @@ The projects listed below are reference notes for myself and for anyone interest
 Concepts learned/explored: lists, dictionaries, functions, for loops
 Functions, methods, and properties used: .read(), open(), .split(), .append(), int()
 
-## 2st Project. [2nd Guided Project: Exploring Gund deaths
-(https://github.com/lColmenarez/DataQuestSolutions/blob/master/Guided%20Project-%20Exploring%20Guns%20Death/2%C2%BA%20Guided%20Project%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
-
+## 2st Project. [2nd Guided Project: Exploring Gund deaths](https://github.com/lColmenarez/DataQuestSolutions/blob/master/Guided%20Project-%20Exploring%20Guns%20Death/2%C2%BA%20Guided%20Project%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
 Concepts learned: list comprehension, datetime module, csv module, Functions, methods, and properties used: csv.reader(), .items(), list(), datetime.datetime()
